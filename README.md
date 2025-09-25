@@ -3,7 +3,7 @@
 **What I'm currently working on**
 - [th0truth/hwmonitor](https://github.com/th0truth/hwmonitor) - A comprehensive C-library that offers fetch hardware information (CPU, GPU, RAM, etc.)
 - [th0truth/unify](https://github.com/th0truth/unify) - The Unify is a RESTful API in Python that designed to help teachers and educators manage their students' courses, grades, schedule, etc.
-- [th0truth/fastapi-nosql-template](https://github.com/th0truth/fastapi-nosql-template) - The FastAPI-noSQL-template that designed to ease implement own API with contemporary features.
+- [th0truth/fastapi-nosql-template](https://github.com/th0truth/fastapi-nosql-template) - The FastAPI-NoSQL-template that designed to ease implement own API with contemporary features.
 - [th0truth/configuration](https://github.com/th0truth/configuration) - Some configuration stuff.
 
 **Languages**
